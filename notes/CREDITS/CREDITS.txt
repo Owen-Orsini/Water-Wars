@@ -1,0 +1,17 @@
+Title:	GameMaker Studio 2 - Random Level Generation
+Author:	HeartBeast
+Format: Video Tutorial
+Link:	https://www.youtube.com/watch?v=Hds06We0_g0
+Usage:	Source for level generation and bitmasking code
+
+Title:	GameMaker Studio 2: Action RPG Tutorial (Part 3: Tile Collision)
+Author: Shaun Spalding
+Format: Video Tutorial
+Link:	https://www.youtube.com/watch?v=sfMNRDzKXtc&t=1142s
+Usage:	Source for tile collision code
+
+Title:	GMS2 Cameras: As Simple as Possible
+Author:	Pixelated Pope
+Format: Video Tutorial
+LinK:	https://www.youtube.com/watch?v=_g1LQ6aIJFk
+Usage: Source for camera code
